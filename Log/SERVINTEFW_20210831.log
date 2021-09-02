@@ -1,0 +1,1569 @@
+
+Información :  2021-08-31 11:39:18
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>421288</his>
+<ing>5</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>42875815</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1954/05/05</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>544447</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1371821</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 11:40:43
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:23:13
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>421288</his>
+<ing>5</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>42875815</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1954/05/05</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>544447</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1371821</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:24:40
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:32:18
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>421288</his>
+<ing>5</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>42875815</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1954/05/05</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>544447</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1371821</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:33:44
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:36:06
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>421288</his>
+<ing>5</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>42875815</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1954/05/05</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>544447</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1371821</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:37:33
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:37:48
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:40:12
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>421288</his>
+<ing>5</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>42875815</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1954/05/05</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>544447</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1371821</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:41:39
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:42:21
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:42:35
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:43:18
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:43:51
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 12:48:31
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>421288</his>
+<ing>5</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>42875815</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1954/05/05</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>544447</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1371821</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:05:34
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>421288</his>
+<ing>5</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>42875815</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1954/05/05</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>544447</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1371821</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:07:01
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:07:16
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'S'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:09:55
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>421288</his>
+<ing>5</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>42875815</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1954/05/05</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>544447</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1371821</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:11:22
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:14:24
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'S'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:17:14
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>421288</his>
+<ing>5</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>42875815</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1954/05/05</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>544447</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1371821</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:18:41
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '421288'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1181220|1196243|1221083|1243569|1296285|1371821'
+ Parametro: 'as_edad', Valor: '66 Años|67 Años|66 Años|66 Años|66 Años|66 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|OTRN|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:25:12
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>430529</his>
+<ing>2</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>21876851</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1953/03/08</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>574016</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1421957</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:26:40
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '430529'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1179709|1227949|1246396|1276245|1276247|1304251|1340728'
+ Parametro: 'as_edad', Valor: '68 Años|68 Años|67 Años|67 Años|67 Años|67 Años|67 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|ENFE|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:30:27
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>430529</his>
+<ing>2</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>21876851</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1953/03/08</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>574016</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1421957</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:31:55
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '430529'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1179709|1227949|1246396|1276245|1276247|1304251|1340728'
+ Parametro: 'as_edad', Valor: '68 Años|68 Años|67 Años|67 Años|67 Años|67 Años|67 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|ENFE|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:36:29
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>430529</his>
+<ing>2</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>21876851</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1953/03/08</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>574016</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1421957</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:37:57
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '430529'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1179709|1227949|1246396|1276245|1276247|1304251|1340728'
+ Parametro: 'as_edad', Valor: '68 Años|68 Años|67 Años|67 Años|67 Años|67 Años|67 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|ENFE|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:43:37
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>430529</his>
+<ing>2</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>21876851</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1953/03/08</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>574016</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1421957</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:45:05
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '430529'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1179709|1227949|1246396|1276245|1276247|1304251|1340728'
+ Parametro: 'as_edad', Valor: '68 Años|68 Años|67 Años|67 Años|67 Años|67 Años|67 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|ENFE|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:51:12
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SALA</ubi>
+<esp>021</esp>
+<his>442210</his>
+<ing>2</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>1036449184</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1960/01/29</fna>
+<sev>ES</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>615123</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1412555</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:52:39
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '442210'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1247925|1249911|1258295|1348210|1349079|1368190'
+ Parametro: 'as_edad', Valor: '61 Años|61 Años|60 Años|61 Años|60 Años|60 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|ENFE|OTRN'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:56:32
+ Historia Clínica Integrada, Version 1.3, Fecha de línea base 03-Marzo-2021
+<?xml version='1.0' encoding='utf-8' ?>
+ <Parameters>
+<ubi>SESG</ubi>
+<esp>021</esp>
+<his>430529</his>
+<ing>2</ing>
+<gus>ARCL</gus>
+<usu>jeffpeli</usu>
+<ide>21876851</ide>
+<tid>CC</tid>
+<ims>S</ims>
+<mod>C</mod>
+<epa>I</epa>
+<tat>CE</tat>
+<apo>chiconext</apo>
+<ead>01</ead>
+<mym>MULTICOMPA</mym>
+<fna>1953/03/08</fna>
+<sev>SG</sev>
+<hns>N</hns>
+<tep>E</tep>
+<fci>CM</fci>
+<dci>574016</dci>
+<est>SA</est>
+<fac>N</fac>
+<ior>S</ior>
+<epi>
+<valor>1421957</valor>
+</epi>
+<rds></rds>
+</Parameters>
+
+--------------------------------------------------------------------------------
+
+Información :  2021-08-31 14:57:59
+ Parametros al llamar _IReportViewer.FillData(Dictionary<string, object> ParametersCollection):
+ 
+ Parametro: 'as_vcontra', Valor: 'N'
+ Parametro: 'as_vrecegr', Valor: 'N'
+ Parametro: 'as_vegresoneo', Valor: 'N'
+ Parametro: 'as_vnotas', Valor: 'S'
+ Parametro: 'as_secuencia', Valor: ''
+ Parametro: 'as_ead', Valor: '01'
+ Parametro: 'as_Grupo_usu', Valor: 'ARCL'
+ Parametro: 'as_multisede', Valor: 'S'
+ Parametro: 'ai_pachis', Valor: '430529'
+ Parametro: 'ad_fechaini', Valor: '01/07/2020 00:00'
+ Parametro: 'ad_fechafin', Valor: '30/06/2021 23:59'
+ Parametro: 'as_episodio', Valor: '1179709|1227949|1246396|1276245|1276247|1304251|1340728'
+ Parametro: 'as_edad', Valor: '68 Años|68 Años|67 Años|67 Años|67 Años|67 Años|67 Años'
+ Parametro: 'as_Tipo_clinico', Valor: 'MEDI|ENFE|REAY'
+ Parametro: 'as_Tipo_nota', Valor: ''
+ Parametro: 'as_Especialidad', Valor: ''
+ Parametro: 'as_Usuario', Valor: ''
+ Parametro: 'as_usuava', Valor: ''
+ Parametro: 'as_vordenes', Valor: 'S'
+ Parametro: 'as_vmonbas', Valor: 'S'
+ Parametro: 'as_vmonhemo', Valor: 'N'
+ Parametro: 'as_vmedica', Valor: 'N'
+ Parametro: 'as_votrosmed', Valor: 'N'
+ Parametro: 'as_vmezcla', Valor: 'N'
+ Parametro: 'as_votrasmez', Valor: 'N'
+ Parametro: 'as_vepicrisis', Valor: 'N'
+ Parametro: 'as_vinfadmfin', Valor: 'N'
+ Parametro: 'as_vapreusu', Valor: 'N'
+ Parametro: 'as_vclap', Valor: 'N'
+ Parametro: 'as_vododia', Valor: 'N'
+ Parametro: 'as_vdethal', Valor: 'N'
+ Parametro: 'as_vodotra', Valor: 'N'
+ Parametro: 'as_vcartra', Valor: 'N'
+ Parametro: 'as_vdetact', Valor: 'N'
+ Parametro: 'as_vpresup', Valor: 'N'
+ Parametro: 'ai_sectto', Valor: '0'
+ Parametro: 'as_vindice', Valor: 'S'
+ Parametro: 'as_vinfate', Valor: 'N'
+ Parametro: 'as_vtxtacl', Valor: 'S'
+ Parametro: 'as_usu_usr', Valor: 'jeffpeli'
+ Parametro: 'as_actqui', Valor: ''
+ Parametro: 'as_secesq', Valor: ''
+ Parametro: 'as_vrepcir', Valor: 'N'
+ Parametro: 'as_vresate', Valor: 'N'
+--------------------------------------------------------------------------------
